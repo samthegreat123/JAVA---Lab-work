@@ -1,3 +1,5 @@
+/*20. Write a java program to perform overriding of abstract class*/
+
 abstract class Animal
 {
 	//abstract method(this method does not have a method).
