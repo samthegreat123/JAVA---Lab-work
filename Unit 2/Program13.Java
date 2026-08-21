@@ -1,4 +1,4 @@
-/* Inheritance example*/
+/*13. Simple Inheritance example*/
 
 class Animal{
      String name ="Animal";
