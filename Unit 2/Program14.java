@@ -1,4 +1,4 @@
-/* Inheritance example*/
+/* 14. Multilevel Inheritance example*/
 
 class Animal{
      String name ="Animal";
